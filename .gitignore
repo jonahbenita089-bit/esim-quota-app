@@ -1,0 +1,29 @@
+# This .gitignore file should be placed at the root of your Flutter project.
+# It covers common generated files and directories.
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IntelliJ / Android Studio related
+*.iml
+.idea/
+*.ipr
+*.iws
+android/.gradle/
+android/local.properties
+android/.idea/
+
+# VS Code related
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.log
+*.tmp
